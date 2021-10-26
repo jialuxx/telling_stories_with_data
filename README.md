@@ -15,6 +15,5 @@ Hi! Nice to meet you all :D
  * How to use Tableau/other tools to creat data visualizations
  * How to design convincing and efficient data visualizations
  * How to use data visualizations to help me present a story
-
 ## Portfolio
 Here are some data visualizations I created. Feel free to discuss about them with me <jialux@andrew.cmu.edu>
