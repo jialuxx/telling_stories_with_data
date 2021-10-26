@@ -3,7 +3,7 @@
 Link to live site: https://jialuxx.github.io/telling_stories_with_data/
 
 ## About me
-**Jialu Xiang** 
+**Jialu Xiang**  
 Pronouns: _she/her_
 
 M.S In Public Policy and Management,  
