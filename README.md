@@ -17,4 +17,6 @@ Hi! Nice to meet you all :D
  * How to use data visualizations to help me present a story
 ## Portfolio
 Here are some data visualizations I created. Feel free to discuss about them with me <jialux@andrew.cmu.edu>
+#### 10/26 In-class Practice 
+using [Flourish](https://app.flourish.studio/)
 <div class="flourish-embed flourish-chart" data-src="visualisation/7640001"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
