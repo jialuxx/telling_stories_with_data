@@ -21,5 +21,5 @@ Here are some data visualizations I created. Feel free to discuss about them wit
 Tool: [Flourish](https://app.flourish.studio/)
 <div class="flourish-embed flourish-chart" data-src="visualisation/7640001"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-#### 10/30 After-class Practice
+#### 10/30 Assignment2 
 [Using Flourish to creat Data Visualization](/dataViz_2.md)
