@@ -20,3 +20,6 @@ Here are some data visualizations I created. Feel free to discuss about them wit
 #### 10/26 In-class Practice 
 Tool: [Flourish](https://app.flourish.studio/)
 <div class="flourish-embed flourish-chart" data-src="visualisation/7640001"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+#### 10/30 After-class Practice
+[Using Flourish to creat Data Visualization](/dataViz_2.md)
