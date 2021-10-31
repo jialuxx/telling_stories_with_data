@@ -13,8 +13,8 @@ Data Source: [OECD](https://data.oecd.org/)
 ## **Slope chart** ##
 <div class="flourish-embed flourish-slope" data-src="visualisation/7684616"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
 
-Both of the above visual charts are based on line charts. I think line charts are the best charts to depict trends/changes over a specific period of time.Both of the above visual charts are based on line charts. I think line charts are the best charts to depict trends/changes over a specific period of time.  
+Both of the above data visualizations are based on line charts. I think line charts are the best charts to depict trends/changes over a specific period of time.  
   
-The grid of the line chart spreads the different countries in different line charts. It is a bit difficult for the audience to compare the debt to GDP ratio of each country because the amount of eye movement is too large. 
+The grid of the line chart place different countries into different line charts. It is a bit difficult for the audience to compare the debt-to-GDP ratio of each country because the amount of eye movement is too large. 
   
 I want to embed all the line graphs in one chart, so I chose the slope chart. Also, I want to highlight the countries with consistently high debt-to-GDP ratios (above 100%), so I highlight 4 slopes and set up a parameter line so the audience could see the point at first glance.
