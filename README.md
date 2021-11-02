@@ -19,5 +19,5 @@ Hi! Nice to meet you all :D
 Here are some data visualizations I created. Feel free to discuss about them with me <jialux@andrew.cmu.edu>
 
 #### 10/30 Assignment2 
-[Using Flourish to creat Data Visualization](/dataViz_2.md)  
-[Trying Tableau to dataviz](/dataviz_3.md)
+[Using Flourish to dataviz](/dataviz2.md)  
+[Trying Tableau to dataviz](/dataviz3.md)
