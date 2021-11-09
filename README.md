@@ -22,4 +22,4 @@ Here are some data visualizations I created. Feel free to discuss about them wit
 [Using Flourish to dataviz](/dataviz2.md)  
 [Trying Tableau to dataviz](/dataviz3.md)
 #### 11/09 Assignment3&4
-[](/)
+[Critique by design](/dataviz4.md)
