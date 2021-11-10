@@ -30,3 +30,8 @@ I don't think it communicates the message effectively. There are too many distra
 * Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)  
   
 I think this method succeeds in recording the first impressions we get when looking at data visualizations. The benefit is that it helps designers put themselves in the shoes of their target audience. Reflecting on how to better convey the message is key to designing an effective data visualization. However, this method focuses more on the use of data and the effectiveness of the information, and somewhat neglects the analysis of visualization elements, such as colors and texts. It would be more helpful if it could be combined with Good Charts method to analyze data visualization. I would suggest adding some questions like." How do you feel about the elements in the chart, and do those that stand out accurately convey the most important information?"  
+## Wireframe
+  
+![Redesign draft](/images/IMG_0352.PNG)  
+  
+I think treemap is a better visualization tool to compare those proportions.
