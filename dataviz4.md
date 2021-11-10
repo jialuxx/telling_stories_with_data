@@ -81,7 +81,8 @@ Here is the final edition of my data visualization.
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>  
+   
 **Some thoughts**
 1. The rectangle size is determined by the number of people in each group, so that we directly see the population differences and and easily recognize biggest groups;
 2. The color is determined by the type of primary vaccines rather than the booster type, which I used in the sketch. Instead, the booster type is directly placed in the graph with its percentage under the category of primary type. I think this color arrangement looks neater to the audience. 
-3.Though none of my friends suggest the change, I transform the title to the conclusion that people tend to choose Pfizer and Moderna as their booster vaccine type, because I think it's the essential information the graph talks about and I want the audience directly know it from the title.
+3. Though none of my friends suggest the change, I transform the title to the conclusion that people tend to choose Pfizer and Moderna as their booster vaccine type, because I think it's the essential information the graph talks about and I want the audience directly know it from the title.
