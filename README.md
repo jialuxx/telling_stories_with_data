@@ -23,3 +23,5 @@ Here are some data visualizations I created. Feel free to discuss about them wit
 [Trying Tableau to dataviz](/dataviz3.md)
 #### 11/09 Assignment3&4
 [Critique by design](/dataviz4.md)
+#### 11/15 Assignment 5
+[Final Project 1](/finalProject_jialu.md)
