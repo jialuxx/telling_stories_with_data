@@ -12,11 +12,11 @@ Briefly describe what domestic violence is and what types of violence are includ
 2. **Reported violence data**  
 Present to the audience that reported violence increased during the pandemic and what types of violence were mostly reported.  
 The most ideal chart I want to put here is:
-
+![Storyline](/images/Screen Shot 2021-11-15 at 8.39.14 PM.png) 
 3. **Pandemic's impacts**  
 Talk about the increase in food/housing/economic insecurity and the decrease in support resources, which made things worse for victims.  
 The most ideal charts I want to put here are: 
-
+![Storyline](/images/Screen Shot 2021-11-15 at 8.39.14 PM.png) 
 4. **Actions**  
 Provide tips on how we can help  
 
