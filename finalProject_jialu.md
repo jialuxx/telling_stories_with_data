@@ -5,18 +5,18 @@
 I want to talk about how the pandemic has pushed victims into a worse situation. Contributing factors include increased violence, increased food/family/economic insecurity, and decreased resources for support (e.g., shelter closures). 
   
 ## Structure  
-![Storyline](/images/Screen Shot 2021-11-15 at 8.39.14 PM.png)  
+![Storyline](/images/storyline.png)  
   
 1. **Background**  
 Briefly describe what domestic violence is and what types of violence are included in my discussion.
 2. **Reported violence data**  
 Present to the audience that reported violence increased during the pandemic and what types of violence were mostly reported.  
 The most ideal chart I want to put here is:
-![Storyline](/images/Screen Shot 2021-11-15 at 8.39.14 PM.png) 
+![Storyline](/images/slopechart.png) 
 3. **Pandemic's impacts**  
 Talk about the increase in food/housing/economic insecurity and the decrease in support resources, which made things worse for victims.  
 The most ideal charts I want to put here are: 
-![Storyline](/images/Screen Shot 2021-11-15 at 8.39.14 PM.png) 
+![Storyline](/images/scatterplot.png) 
 4. **Actions**  
 Provide tips on how we can help  
 
