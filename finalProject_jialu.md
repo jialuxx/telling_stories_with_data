@@ -5,7 +5,8 @@
 I want to talk about how the pandemic has pushed victims into a worse situation. Contributing factors include increased violence, increased food/family/economic insecurity, and decreased resources for support (e.g., shelter closures). 
   
 ## Structure  
-![storyline](images/Screen Shot 2021-11-15 at 8.39.14 PM.png) 
+![Storyline](/images/Screen Shot 2021-11-15 at 8.39.14 PM.png)  
+  
 1. **Background**  
 Briefly describe what domestic violence is and what types of violence are included in my discussion.
 2. **Reported violence data**  
