@@ -24,4 +24,6 @@ Here are some data visualizations I created. Feel free to discuss about them wit
 #### 11/09 Assignment3&4
 [Critique by design](/dataviz4.md)
 #### 11/15 Assignment 5
-[Final Project 1](/finalProject_jialu.md)
+[Final Project Part 1](/finalProject_jialu.md)
+#### 11/22 Assignment 6
+[Final Project Part 2](/final2.md)
