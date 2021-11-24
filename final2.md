@@ -7,6 +7,7 @@ Some questions:
 How can i embed tableau/flourish graphs into the shorthand block? I copied the embed link but the shorthand said it was invalid.
 ## User Research  
 **Reseach Goals:**
+Target Audience: Everyone who cares about domestic violence prevention.
 1. Topic: Audience are clear about what I am taking about
 2. Logic: Audience can easily follow my story
 3. Confusion: Audience have few misunderstandings or cofusions
