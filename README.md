@@ -27,3 +27,5 @@ Here are some data visualizations I created. Feel free to discuss about them wit
 [Final Project Part 1](/finalProject_jialu.md)
 #### 11/22 Assignment 6
 [Final Project Part 2](/final2.md)
+#### 12/02 Final Assignment
+[Final Project Part 3](/final3.md)
