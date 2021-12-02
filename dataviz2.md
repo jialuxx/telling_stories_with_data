@@ -7,10 +7,10 @@ Data Source: [OECD](https://data.oecd.org/)
 ## **Government Debt Bar chart**:  
 <iframe src="https://data.oecd.org/chart/6vpM" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vpM" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>  
   
-## **Grid of line charts**:  
+## **Grid Of Line Charts**:  
 <div class="flourish-embed flourish-chart" data-src="visualisation/7684326"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
   
-## **Slope chart** ##
+## **Slope Chart** ##
 <div class="flourish-embed flourish-slope" data-src="visualisation/7684616"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
 
 Both of the above data visualizations are based on line charts. I think line charts are the best charts to depict trends/changes over a specific period of time.  
