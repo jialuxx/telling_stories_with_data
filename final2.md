@@ -41,4 +41,4 @@ C: The background of your introduction part is a little distracting.
 * Add local resources in the action part. 
 * Combine the slope chart and bar chart or only keep slope chart.
   
-  [**Back to Content**](/README.md)  |  [**Next Assignment**](/final3.md)
+[**Last Assignment**](/finalProject_jialu.md)  |  [**Back to Content**](/README.md)  |  [**Next Assignment**](/final3.md)
