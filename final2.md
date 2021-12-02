@@ -1,5 +1,5 @@
 # Final Project 2
-[Back to content](/README.md)  
+[**Back to content**](/README.md)  
 ## Wireframe & Storyboard  
 [Shorthand Preview](https://preview.shorthand.com/GAHRaXNt75E5mLHd) 
   
