@@ -35,4 +35,4 @@ After the accomplishment of the first draft on Shorthand, I invite 3 friends to 
 •	https://nnedv.org/wp-content/uploads/2020/04/Library_COVID_helping_a_friend.pdf  
 •	Background photos all from Unsplash  
   
-[**Back to Content**](/README.md)
+[**Last Assignment**](/final2.md)  | [**Back to Content**](/README.md)
