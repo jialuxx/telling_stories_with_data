@@ -1,5 +1,5 @@
 # Final Project Part 1
-[Back to content](README.md)
+[**Back to content**](README.md)
 ## Summary
 **Topic: Covid pandemic negatively impact victims of domestic violence in U.S.**  
 I want to talk about how the pandemic has pushed victims into a worse situation. Contributing factors include increased violence, increased food/family/economic insecurity, and decreased resources for support (e.g., shelter closures). 
