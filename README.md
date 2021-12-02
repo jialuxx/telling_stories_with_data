@@ -14,20 +14,15 @@ Carnegie Mellon Univeristy
 
 **Hi! Nice to meet you all :D**  
 ## What I hope to learn
- * How to use Tableau/other tools to creat data visualizations
- * How to design convincing and efficient data visualizations
- * How to use data visualizations to help me present a story
+ 1.How to use Tableau/other tools to creat data visualizations
+ 2.How to design convincing and efficient data visualizations
+ 3.How to use data visualizations to help me present a story
 ## Portfolio
 Here are some data visualizations I created.   
 Feel free to discuss about them with me (<jialux@andrew.cmu.edu>)
 
-#### 10/30 
-[Assignment2: Using Flourish & Tableau](/dataviz2.md)  
-#### 11/09 
-[Assignment3&4: Critique by design](/dataviz4.md)
-#### 11/15 
-[Final Project Part 1](/finalProject_jialu.md)
-#### 11/22 
-[Final Project Part 2](/final2.md)
-#### 12/02 
-[Final Project Part 3](/final3.md)
+#### 10/30 [Assignment2: Using Flourish & Tableau](/dataviz2.md)  
+#### 11/09 [Assignment3&4: Critique by design](/dataviz4.md)
+#### 11/15 [Assignment5: Final Project Part 1](/finalProject_jialu.md)
+#### 11/22 [Assignment6: Final Project Part 2](/final2.md)
+#### 12/02 [Assignment7: Final Project Part 3](/final3.md)
