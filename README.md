@@ -14,9 +14,9 @@ Carnegie Mellon Univeristy
 
 **Hi! Nice to meet you all :D**  
 ## What I hope to learn
- 1.How to use Tableau/other tools to creat data visualizations
- 2.How to design convincing and efficient data visualizations
- 3.How to use data visualizations to help me present a story
+ 1.How to use Tableau/other tools to creat data visualizations  
+ 2.How to design convincing and efficient data visualizations  
+ 3.How to use data visualizations to help me present a story  
 ## Portfolio
 Here are some data visualizations I created.   
 Feel free to discuss about them with me (<jialux@andrew.cmu.edu>)
