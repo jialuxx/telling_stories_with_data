@@ -87,4 +87,4 @@ Here is the final edition of my data visualization.
 2. The color is determined by the type of primary vaccines rather than the booster type, which I used in the sketch. Instead, the booster type is directly placed in the graph with its percentage under the category of primary type. I think this color arrangement looks neater to the audience. 
 3. Though none of my friends suggest the change, I transform the title to the conclusion that people tend to choose Pfizer and Moderna as their booster vaccine type, because I think it's the essential information the graph talks about and I want the audience directly know it from the title.
    
-[**Back to Content**](/README.md)  |  [**Next Assignment**](/finalProject_jialux.md)
+[**Back to Content**](/README.md)  |  [**Next Assignment**](/finalProject_jialu.md)
