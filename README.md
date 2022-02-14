@@ -13,8 +13,8 @@ Heinz College,
 Carnegie Mellon Univeristy
 
 **Hi! Nice to meet you all :D**  
-## What I hope to learn
- 1.How to use Tableau/other tools to creat data visualizations  
+## Skills I Learned From The Course
+ 1.How to use Tableau to creat data visualizations  
  2.How to design convincing and efficient data visualizations  
  3.How to use data visualizations to help me present a story  
 ## Portfolio
