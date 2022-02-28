@@ -21,8 +21,8 @@ Carnegie Mellon Univeristy
 Here are some data visualizations I created.   
 Feel free to discuss about them with me (<jialux@andrew.cmu.edu>)
 
-#### 10/30 [Assignment2: Using Flourish & Tableau](/dataviz2.md)  
-#### 11/09 [Assignment3&4: Critique by design](/dataviz4.md)
-#### 11/15 [Assignment5: Final Project Part 1](/finalProject_jialu.md)
-#### 11/22 [Assignment6: Final Project Part 2](/final2.md)
-#### 12/02 [Assignment7: Final Project Part 3](/final3.md)
+#### 10/30 [Bar/ Line/ Slope Charts by Flourish & Tableau](/dataviz2.md)  
+#### 11/09 [Visualization Analysis: Critique by design](/dataviz4.md)
+#### 11/15 [Final Project Part 1: Story Line](/finalProject_jialu.md)
+#### 11/22 [Final Project Part 2: User Research](/final2.md)
+#### 12/02 [Final Project Part on Shorthand](/final3.md)
