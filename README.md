@@ -26,3 +26,5 @@ Feel free to discuss about them with me (<jialux@andrew.cmu.edu>)
 #### 11/15 [Final Project Part 1: Story Line](/finalProject_jialu.md)
 #### 11/22 [Final Project Part 2: User Research](/final2.md)
 #### 12/02 [Final Project Part on Shorthand](/final3.md)
+
+[dataviz2_copies](/datviz2_copies.md)
