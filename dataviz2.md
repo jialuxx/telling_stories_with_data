@@ -20,7 +20,19 @@ Both of the above data visualizations are based on line charts. I think line cha
 The grid of the line chart place different countries into different line charts. It is a bit difficult for the audience to compare the debt-to-GDP ratio of each country because the amount of eye movement is too large. 
   
 I want to embed all the line graphs in one chart, so I chose the slope chart. Also, I want to highlight the countries with consistently high debt-to-GDP ratios (above 100%), so I highlight 4 slopes and set up a parameter line so the audience could see the point at first glance.
-  
+    
+    
+    
+    
+    
+    
+    
+   
+    
+    
+    
+    
+    
 ## Tableau
 Tool: [Tableau](https://www.tableau.com/)  
 Data Source: [OECD](https://data.oecd.org/)  
